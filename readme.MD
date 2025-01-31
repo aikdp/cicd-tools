@@ -26,5 +26,6 @@ Plugins:
 * Go to Manage Jenkins -> System
 * Find Global Trusted Pipeline Libraries section
 * Name as jenkins-shared-library, default version main and load implicitly
-* Location is put jenkins-shared-library git url
-* Now Jenkins is ready to use.
+* Location is https://github.com/aikdp/jenkins-shared-library.git
+
+Now Jenkins is ready to use.
